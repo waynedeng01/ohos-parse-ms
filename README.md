@@ -9,7 +9,7 @@
 ## Install
 
 ```sh
-npm install parse-ms
+ohpm i parse-ms
 ```
 
 ## Usage
