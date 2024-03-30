@@ -1,0 +1,9 @@
+{
+  "name": "parse-ms",
+  "version": "1.0.0",
+  "description": "Parse milliseconds into an object",
+  "main": "Index.ets",
+  "author": "waynedeng",
+  "license": "MIT",
+  "dependencies": {}
+}
